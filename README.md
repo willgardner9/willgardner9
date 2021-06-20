@@ -1,4 +1,4 @@
-- 👋 &nbsp; Hi, I’m Will Gardner. I work full time at an education start up and build micro-SaaS products in my spare time
+- 👋 &nbsp; Hi, I’m Will Gardner. I work at an education start up and build micro-SaaS products in my spare time
 - 🏗 &nbsp; Currently building [testably.co - A/B testing made easy](http://www.testably.co/ "testably.co - A/B testing made easy")
 - 📫 &nbsp; You can send me an email @ willgardner9@gmail.com
 
