@@ -1,5 +1,5 @@
 - 👋 &nbsp; Hi, I’m Will Gardner. I work at an education start up and build micro-SaaS products in my spare time
-- 🏗 &nbsp; Currently building [testably.co - A/B testing made easy](http://www.testably.co/ "testably.co - A/B testing made easy")
+- 🏗 &nbsp; Currently building testably - a simple A/B testing tool for founders, startups, and small businesses
 - 📫 &nbsp; You can send me an email @ willgardner9@gmail.com
 
 <!---
