@@ -2,7 +2,7 @@
 
 - 👋 &nbsp; Hi, I’m Will Gardner. A full-stack developer with an eye for UI/UX.
 - 🌐 &nbsp; You can view my [portfolio of full stack projects here](https://www.willgardner.me/)
-- 📫 &nbsp; You can send me an email @ willgardner9@gmail.com
+- 📫 &nbsp; Get in contact with me via email @ willgardner9@gmail.com
 
 <!---
 willgardner9/willgardner9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
